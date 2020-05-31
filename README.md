@@ -23,6 +23,10 @@ date: 31/05/2020
 blablabla
 ```
 
+## TODO
+* Add a config file that stores blog information.
+* Simplify the code!
+
 ## Known Issues
 * The post title should be same as the file name, like if the title is "Hello World", the filename should be `hello-world.md`
 * The directory handling is not-so-good.It sometimes break and I'm looking forward to fix that
