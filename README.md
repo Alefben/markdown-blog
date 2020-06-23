@@ -24,6 +24,7 @@ date: 31/05/2020
 
 ## TODO
 * Add a config file that stores blog information.
+* A web based post creator.
 * Simplify the code!
 
 ## Known Issues
