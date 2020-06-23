@@ -27,5 +27,5 @@ date: 31/05/2020
 * Simplify the code!
 
 ## Known Issues
-* The post title should be same as the file name, like if the title is "Hello World", the filename should be `hello-world.md`
+* The post title should be same as the file name, like if the title is "This Is An Example Title", the filename should be `this-is-an-example-title.md`
 * The directory handling is not-so-good.It sometimes break and I'm looking forward to fix that
