@@ -12,7 +12,6 @@
 - Use this layout on your `.md` file
 
 ```md
-[//]: # (See 'markdown-test.md' for all the markdown possibilities)
 ---
 title: Your Title
 description: Your post's description
@@ -20,8 +19,9 @@ author: Your name, or the post writer's name, idk.
 date: 31/05/2020
 ---
 
-## h2 Header
-blablabla
+## And here goes the article!
+* You can use any of **the markdown** _you want_!
+* Please refer to 'markdown-test.md' for all the markdown possibilities!
 ```
 
 ## TODO
