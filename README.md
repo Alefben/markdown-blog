@@ -1,15 +1,13 @@
 # markdown-blog
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)<br/>Little markdown blog built with EJS. Theme: [Cactus Dark](https://probberechts.github.io/hexo-theme-cactus/), here's a quick demo if you wanna know how it looks: [Demo](https://alef.wtf/blog/)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)<br/>
+Little markdown blog built by using Express, implementing EJS. Theme I used is [Cactus Dark](https://probberechts.github.io/hexo-theme-cactus/). I modified it's CSS a little bit, here's a quick demo if you wanna know how it looks, and how the blog works: [Click click!](https://alef.wtf/blog/)
 
 ## Usage
-
 - Run `npm i` and `node index.js`
 
 ## Post Layout
-
 - Place your markdown file in `./views/blog/posts/`
-- Use this layout on your `.md` file
+- Use this layout on your `.md` file:
 
 ```md
 ---
