@@ -23,9 +23,9 @@ date: 31/05/2020
 ```
 
 ## TODO
-- [] Add a config file that stores blog information.
-- [] Create a web based post creator.
-- [] Clean the code!
+- [ ] Add a config file that stores blog information.
+- [ ] Create a web based post creator.
+- [ ] Clean the code!
 
 ## Known Issues
 * The post title should be same as the file name, like if the title is "This Is An Example Title", the filename should be `this-is-an-example-title.md`
